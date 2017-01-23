@@ -1,0 +1,20 @@
+{
+  "name": "telegramclient",
+  "version": "0.0.0",
+  "description": "A new awesome client for Telegram",
+  "main": "index.html",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LionAndTheFellows/TelegramClient.git"
+  },
+  "keywords": [
+    "Telegram",
+    "client"
+  ],
+  "author": "Andrea Leone <github@andrealeone.xyz>, Mattia Piccinelli <>",
+  "license": "WTF",
+  "bugs": {
+    "url": "https://github.com/LionAndTheFellows/TelegramClient/issues"
+  },
+  "homepage": "https://github.com/LionAndTheFellows/TelegramClient#readme"
+}
